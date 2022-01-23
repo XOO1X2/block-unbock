@@ -1,2 +1,2 @@
-# block-unbock
-poopyboi
+javascript:(function () {window.onbeforeunload = function() { return 1; };})()
+
